@@ -156,6 +156,6 @@ angr_tool/
     └── heap.py          # Heap vulnerability tracker
 ```
 
-## uthor
+## author
 
 **taufiqorrohman29** — v0.0.1
