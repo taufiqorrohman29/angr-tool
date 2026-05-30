@@ -14,7 +14,7 @@ pip install -e .
 pip install -e ".[full]"
 ```
 
-## ⚡ Quick Start
+## Quick Start
 
 ```bash
 # Binary info
