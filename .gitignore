@@ -1,0 +1,30 @@
+# Python Cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual Environments
+venv/
+env/
+.env
+
+# Egg/Build Info
+*.egg-info/
+build/
+dist/
+
+# Test binaries & Output
+test_bins/
+*.dot
+
+# OS generated files
+.DS_Store
+
+# Editor directories and files
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
